@@ -1,6 +1,6 @@
-<h1 align="left">OKUNOLAMIDE<img src="I.png" height="25" width="25"></h1>
+<h1 align="left">Estherrr<img src="I.png" height="25" width="25"></h1>
 
-<h3 align="center">A passionate AI developer from NIGERIA</h3>
+<h3 align="center">A passionate cyber security pro from NIGERIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okunolamide&label=Profile%20views&color=0e75b6&style=flat" alt="okunolamide" /> </p>
 
@@ -10,9 +10,7 @@
 
 - 🔭 I’m currently working on **ROUTING SYSTEM**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Okunolamide](https://github.com/Okunolamide)
-
-- 📫 How to reach me **olakiks3322@gmail.com**
+- 📫 How to reach me **chizzyesther455@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
